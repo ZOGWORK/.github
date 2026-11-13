@@ -7,8 +7,8 @@ Named after Zog, the golden retriever.
 
 | Project | What it is |
 |---|---|
-| [Control Scout](https://controlscout.org) | Free FTC scouting + match predictions for every team. Publishes its prediction accuracy openly. |
-| [Control Point](https://tryctrlpoint.org) | Team management for robotics teams, with built-in AI. |
+| Control Scout | Free FTC scouting + match predictions for every team. Publishes its prediction accuracy openly. |
+| Control Point | Team management for robotics teams, with built-in AI. |
 | Control Kit | Onshape assembly BOM and purchasing tool for FTC teams. |
 | Control Vision | Local-first FTC match video analyzer — track robots, count cycles, clip highlights, score matches from video. |
 
